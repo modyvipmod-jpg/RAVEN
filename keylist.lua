@@ -11,9 +11,9 @@ return {
         SLOT = "1"
     },
     ["FREERAVEN"] = {
-        type = "VIP",
-        expiry = "2026-10-19",
-        valid = true,
+        type = "BLOCKED",
+        expiry = "2021-10-19",
+        valid = false,
         max_devices = 50,
         SLOT = "2"
     },
